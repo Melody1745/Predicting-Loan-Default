@@ -44,5 +44,5 @@ The XGBoost models yield better performance, with accuracy equal to 66%, on our 
   n_estimators = 400, 
   subsample = 0.996.
 
-# 4. Web Application
+# 5. Web Application
 https://share.streamlit.io/melody1745/predicting-loan-default/main/loan_app.py
