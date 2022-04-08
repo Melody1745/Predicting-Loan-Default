@@ -6,4 +6,4 @@ The dataset is download from Kaggle, it covers all approved loan information and
 https://www.kaggle.com/ethon0426/lending-club-20072020q1/discussion/207082
 
 # 3. Web Application
-https://share.streamlit.io/rui0818/seas6401/main/loan_app.py
+https://share.streamlit.io/melody1745/predicting-loan-default/main/loan_app.py
